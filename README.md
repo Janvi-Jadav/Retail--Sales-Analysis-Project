@@ -32,7 +32,7 @@ The project involves cleaning and organizing messy retail data from a superstore
 ## 📁 Files in This Repository
 
 - `Retail_Sales_Cleaned.xlsx` – The cleaned dataset (ready for visualization or reporting)
-- Insights_Pivot_Summary.xlsx - The pivot table reports for regional sales, category profit, and top products , monthly trends. 
+- 'Insights_Pivot_Summary.xlsx'- The pivot table reports for regional sales, category profit, and top products , monthly trends. 
 - `README.md` – Project explanation and documentation
 
 ---
