@@ -29,14 +29,6 @@ The project involves cleaning and organizing messy retail data from a superstore
 
 ---
 
-## 📁 Files in This Repository
-
-- `Retail_Sales_Cleaned.xlsx` – The cleaned dataset (ready for visualization or reporting)
-- Insights_Pivot_Summary.xlsx- The pivot table reports for regional sales, category profit, and top products , monthly trends. 
-- `README.md` – Project explanation and documentation
-
----
-
 ## 🔧 Cleaning Steps Performed in Excel
 
 - Removed duplicate records
@@ -47,6 +39,25 @@ The project involves cleaning and organizing messy retail data from a superstore
 - Exported a clean version to share and use for future analysis
 
 ---
+
+## 📊 Power BI Dashboard
+
+I created a fully interactive Power BI dashboard from the cleaned retail sales data.
+
+### Key Visuals:
+- 📍 Sales by Region (Bar Chart)
+- 💰 Profit by Category (Pie Chart)
+- 🔝 Top 10 Products by Sales (Column Chart)
+- 📈 Monthly Sales Trend (Line Chart)
+- 🎛️ Slicers to filter by Region and Category
+- 🧮 Cards for Total Sales & Profit
+
+The dashboard showcases my ability to derive business insights from raw data using data storytelling and visualization techniques.
+
+---
+
+• Designed a dynamic retail sales dashboard in Power BI showing region-wise sales, profit by category, top-performing products, and time-series trends using slicers, cards, and visual storytelling.
+
 
 ## 💼 About Me
 
